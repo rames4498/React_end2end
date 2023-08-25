@@ -1,0 +1,60 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "name": "Sherlock",
+      "email": "detective221b.com",
+      "phone": "9999943433",
+      "Address": "Baker Street",
+      "type": "MNC"
+    },
+    {
+      "id": 2,
+      "name": "Watson",
+      "email": "abc@in.com1",
+      "phone": "8787878787",
+      "Address": "no 5, 5th street,\nchennai,\nIndai",
+      "type": "MNC"
+    },
+    {
+      "id": 3,
+      "name": "Ballaladev",
+      "email": "ballaladev@mahismathi.com",
+      "phone": "4444444411",
+      "Address": "Kings palace,Mahismathi,India ",
+      "type": "MNC"
+    },
+    {
+      "id": 4,
+      "name": "Rocky",
+      "email": "kgfmines@gmail.com",
+      "phone": "1111111111",
+      "Address": "kgf mines, mysure, karnataka, India",
+      "type": "MNC"
+    },
+    {
+      "id": 5,
+      "name": "Pushpa",
+      "email": "smugglerPushpa@gmail.com",
+      "phone": "9999999999",
+      "Address": "No.1,chandragiri, Tirupathi rural, Andhra Pradesh, India",
+      "type": "MNC"
+    },
+    {
+      "id": 6,
+      "name": "Vikaram",
+      "email": "Vikaram@raw.com",
+      "phone": "5556666777",
+      "Address": "velacherry, chennai",
+      "type": "MNC"
+    },
+    {
+      "id": 7,
+      "name": "Bahubali",
+      "email": "bahubali@gmail.com",
+      "phone": "9000000009",
+      "Address": "main palace, Mahismathi, India",
+      "type": "DOMESTIC"
+    }
+  ]
+}
