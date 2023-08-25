@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.error {
+  border-color: red;
+}
+
+.error:focus {
+  outline-color: red;
+}
